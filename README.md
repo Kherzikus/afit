@@ -1,5 +1,5 @@
 # AFIT
-# 1.0
+# 1.0.0
 
 The AFIT (Standing for *Arithmetic for IT*) project has for for aim to
 build first standard ciphering algorithms ; main aim being *RSA* and
